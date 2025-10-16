@@ -3,6 +3,7 @@ name = "my_crate_name"
 version = "0.1.0"
 edition = "2024"
 authors = ["Asya Konstantynovska <nastya.konstantynovska@gmail.com>"]
+description = "Мій крейт"
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/konstanta-asya/crate_rust"
