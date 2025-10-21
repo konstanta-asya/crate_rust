@@ -1,11 +1,14 @@
 [package]
-name = "my_crate_name"
+name = "konstantynovska_rust"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 authors = ["Asya Konstantynovska <nastya.konstantynovska@gmail.com>"]
-description = "Мій крейт"
+description = "Мій парсер списків для навчальної практики"
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/konstanta-asya/crate_rust"
-[dependencies]
+homepage = "https://github.com/konstanta-asya/crate_rust"
+documentation = "https://docs.rs/konstantynovska_rust"
 
+[dependencies]
+peg = "0.8.5"

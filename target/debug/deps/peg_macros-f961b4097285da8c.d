@@ -1,0 +1,10 @@
+/Users/emmayeroshek/RustroverProjects/konstantynovska_rust/target/debug/deps/peg_macros-f961b4097285da8c.d: /Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/lib.rs /Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/analysis.rs /Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/ast.rs /Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/grammar.rs /Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/tokens.rs /Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/translate.rs
+
+/Users/emmayeroshek/RustroverProjects/konstantynovska_rust/target/debug/deps/libpeg_macros-f961b4097285da8c.dylib: /Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/lib.rs /Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/analysis.rs /Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/ast.rs /Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/grammar.rs /Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/tokens.rs /Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/translate.rs
+
+/Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/lib.rs:
+/Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/analysis.rs:
+/Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/ast.rs:
+/Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/grammar.rs:
+/Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/tokens.rs:
+/Users/emmayeroshek/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/peg-macros-0.8.5/translate.rs:

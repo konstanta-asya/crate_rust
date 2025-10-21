@@ -1,7 +1,10 @@
-# my_crate_name
+# Parser
 
-Мій crate
+My Rust parser.
 
-## Запуск
-```bash
-cargo run
+## Example
+
+```rust
+fn main() {
+       println!("{:?}", list_parser::list("[1,1,2,3,5,8]"));
+}
