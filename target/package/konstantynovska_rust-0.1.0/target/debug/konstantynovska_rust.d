@@ -1,0 +1,1 @@
+/Users/emmayeroshek/RustroverProjects/konstantynovska_rust/target/package/konstantynovska_rust-0.1.0/target/debug/konstantynovska_rust: /Users/emmayeroshek/RustroverProjects/konstantynovska_rust/target/package/konstantynovska_rust-0.1.0/src/lib.rs /Users/emmayeroshek/RustroverProjects/konstantynovska_rust/target/package/konstantynovska_rust-0.1.0/src/main.rs
